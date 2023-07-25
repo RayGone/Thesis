@@ -1,0 +1,23 @@
+Privacy Policy for Text Mining Research
+
+This privacy policy explains how we collect, use, and protect your personal information when you access posts and comments on Facebook pages and groups for our text mining research project. This project is conducted by [name of researcher] from [name of academic institution] for [purpose of research].
+
+What information do we collect?
+
+We collect posts and comments from public Facebook pages and groups that are relevant to our research topic. We do not collect any personally identifiable information from these sources, such as your name, email address, phone number, or location. We only collect the text content and metadata of the posts and comments, such as the date, time, and number of reactions.
+
+How do we use your information?
+
+We use your information for text mining purposes only. Text mining is a process of analyzing large amounts of text data to discover patterns, trends, and insights. We use various text mining techniques, such as natural language processing, sentiment analysis, topic modeling, and keyword extraction, to analyze the posts and comments we collect. We do not use your information for any other purposes, such as marketing, advertising, or profiling.
+
+How do we protect your information?
+
+We protect your information by storing it on a secure server that is accessible only by authorized researchers. We also anonymize your information by removing any identifiers that could link it to you or your Facebook account. We do not share or sell your information to any third parties. We only use your information for academic research purposes and we will delete it when the research project is completed.
+
+What are your rights?
+
+You have the right to access, correct, delete, or object to the use of your information at any time. If you want to exercise any of these rights, please contact us at {regan2019@cdcsit.edu.np}. We will respond to your request. You also have the right to lodge a complaint with a supervisory authority if you believe that we have violated your privacy rights.
+
+Contact us
+
+If you have any questions or concerns about this privacy policy or our text mining research project, please feel free to contact us at [email address of researcher]. We appreciate your cooperation and participation in our research.
